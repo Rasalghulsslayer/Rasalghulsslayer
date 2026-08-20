@@ -1,4 +1,4 @@
-## Working on Data Science | Apprentice in Blockchain
+## Working on Data Science and Machine Learning | Apprentice in Blockchain
 
 <!--
 **Rasalghulsslayer/Rasalghulsslayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
